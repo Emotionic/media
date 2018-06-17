@@ -1,3 +1,3 @@
-# Emotionic
+## デモ映像 (gif)
 
-テスト中
+![demo](https://github.com/Emotionic/media/raw/master/img/demo.gif "demo")
